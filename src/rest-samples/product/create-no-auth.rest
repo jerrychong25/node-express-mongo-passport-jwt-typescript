@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/products HTTP/1.1
+content-type: application/json
+
+{
+  "productId": "13",
+  "name": "Orange",
+  "price": 5,
+  "quantity": 6
+}

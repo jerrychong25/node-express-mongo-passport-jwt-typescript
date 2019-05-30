@@ -1,0 +1,2 @@
+DELETE http://localhost:3000/api/products/13
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1lIiwiaWF0IjoxNTUxMjgzODk2fQ.QhmkORJdic5_TeUoQWjqCDajyNqd8wV_490kC_weQ8o

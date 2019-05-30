@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/products HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1lIiwiaWF0IjoxNTUxNDc0MDcwfQ.TJF3NcMB7fpucn8rCv3Vvb6Ml8A_qd-xAXbbj3CEC0M
+content-type: application/json
+
+{
+  "productId": "13",
+  "name": "Orange1",
+  "price": 5,
+  "quantity": 6
+}
