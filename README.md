@@ -1,4 +1,4 @@
-# Node.js Web Application with REST API (Express.js), User JWT Authentication (Passport.js), MongoDB Data Storage (Mongoose.js) using TypeScript
+# Node.js Back End Web Application with REST API (Express.js), User JWT Authentication (Passport.js) and MongoDB Data Storage (Mongoose.js) using TypeScript
 
 ## Getting Started
 
