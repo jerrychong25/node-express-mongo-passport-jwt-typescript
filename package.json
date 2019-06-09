@@ -1,7 +1,6 @@
 {
-  "name": "rest-api-node-jwt-typescript",
-  "version": "0.1.0",
-  "description": "A Rest-API written in TypeScript using Node.js/express and secured by API-Key & JWT",
+  "name": "node-express-mongo-passport-jwt-typescript",
+  "version": "1.0.0",
   "scripts": {
     "start": "npm run serve",
     "build": "npm run build-ts && npm run tslint",
@@ -42,8 +41,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Philippe-Collignon/rest-api-node-jwt-typescript.git"
+    "url": "https://github.com/jerrychong25/node-express-mongo-passport-jwt-typescript.git"
   },
-  "author": "philippe@collignon.email",
   "license": "MIT"
 }
