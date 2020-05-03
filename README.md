@@ -1,4 +1,8 @@
-# Node.js Back End Web Application with REST API (Express.js), User JWT Authentication (Passport.js) and MongoDB Data Storage (Mongoose.js) using TypeScript
+# Node.js Back End Web Application with REST API, User JWT Authentication and MongoDB Data Storage using TypeScript
+
+[![GitHub release](https://img.shields.io/github/release/jerrychong25/node-express-mongo-passport-jwt-typescript.svg)](https://gitHub.com/jerrychong25/node-express-mongo-passport-jwt-typescript/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jerrychong25/node-express-mongo-passport-jwt-typescript/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.com/jerrychong25/node-express-mongo-passport-jwt-typescript.svg)](http://hits.dwyl.com/jerrychong25/node-express-mongo-passport-jwt-typescript)
 
 ## Getting Started
 
