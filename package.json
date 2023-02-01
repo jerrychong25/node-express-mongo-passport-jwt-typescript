@@ -35,7 +35,7 @@
     "uuid": "^3.3.2"
   },
   "devDependencies": {
-    "concurrently": "^4.1.0",
+    "concurrently": "^7.6.0",
     "tslint": "^5.12.1"
   },
   "main": "index.js",
